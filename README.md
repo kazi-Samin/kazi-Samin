@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kazi-Samin&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kazi%20Mahedi%20Hasan&fontSize=50&fontAlignY=35" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kazi%20Mahedi%20Hasan&fontSize=50&fontAlignY=35&desc=Front-End%20Web%20Developer%20%7C%20JavaScript%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js&descAlignY=60&descSize=20" width="100%" alt="Banner" />
 </p>
 
 <p align="center">
