@@ -39,8 +39,7 @@
 <br>
 
 ### ❤️ My Absolute Favorites:
-- 📺 Creating content for my YouTube channel, **Anime Freeze**.
-- ⚡ Reading comic books and watching anything related to the **Hulk**.
+- 💡 Exploring new web technologies and crafting seamless user experiences.
 - 🎯 **Goals:** To become a Full-Stack Developer and build impactful software solutions.
 
 <br clear="both">
