@@ -1,9 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kazi-Samin&color=38BDF8&style=flat-square&label=PROFILE+VIEWS)
 
 <div align="center">
-  <a href="https://github.com/kazi-Samin">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Kazi%20Mahedi%20Hasan&fontSize=50&fontAlignY=35&desc=Front-End%20Web%20Developer%20%7C%20JS%20%7C%20React%20%7C%20Next.js&descSize=20&descAlignY=60" width="100%" alt="Professional Banner Placeholder" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Kazi%20Mahedi%20Hasan&fontSize=50&fontAlignY=35&desc=Front-End%20Web%20Developer%20%7C%20JS%20%7C%20React%20%7C%20Next.js&descSize=20&descAlignY=60" width="100%" alt="Professional Banner" />
 </div>
 
 <p align="center">
@@ -11,7 +9,7 @@
 </p>
 
 <div align="center">
-  <b>Front-End Web Developer 💻 | Expert in HTML, JavaScript, React, React Router, and Next.js ✨ | Crafting Dynamic & Scalable Web Apps with Tailwind CSS & daisyUI 🌐</b>
+  <b>Front-End Web Developer 💻 | Expert in HTML, JavaScript, React, React Router, and Next.js ✨ | Crafting Dynamic & Scalable Web Apps 🌐</b>
   <br><br>
 
   <a href="https://www.linkedin.com/in/kazi-mahedi-hasan" target="_blank">
@@ -31,29 +29,11 @@
 
 ### 💬 Talking about Personal Stuff:
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌱 My Absolute Favorites:</h4>
-      <ul>
-        <li>💡 Exploring cutting-edge web technologies and optimizing performance.</li>
-        <li>🧩 Building impactful software solutions and full-stack integration.</li>
-        <li>🎯 **Goals:** To advance from a Front-End Developer to a Full-Stack Engineer and contribute to meaningful open-source projects.</li>
-      </ul>
-      <br>
-      <h4>💻 Exploring: Modern Web Development</h4>
-      <p>(Level 1 course at Programming Hero)</p>
-      <ul>
-        <li>🚀 **Building:** Interactive applications using JS, APIs, Tailwind CSS, daisyUI, React, React Router, Next.js.</li>
-        <li>🌱 **Learning:** Node.js backend integration.</li>
-        <li>📫 **Reach me out:** [kazisamin0173@gmail.com](mailto:kazisamin0173@gmail.com)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF" width="100%" />
-    </td>
-  </tr>
-</table>
+- 🌱 **My Absolute Favorites:** Exploring cutting-edge web technologies and optimizing performance. Building impactful software solutions.
+- 💻 **Exploring:** Modern Web Development (Level 1 course at Programming Hero).
+- 🚀 **Building:** Interactive applications using JS, APIs, Tailwind CSS, daisyUI, React, React Router, Next.js.
+- 🎯 **Goals:** To advance from a Front-End Developer to a Full-Stack Engineer and contribute to meaningful open-source projects.
+- 📫 **Reach me out:** [kazisamin0173@gmail.com](mailto:kazisamin0173@gmail.com)
 
 <br>
 
@@ -72,11 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats (SSS)
-
-<div align="center">
-  <p>Tracking my journey and open-source contributions.</p>
-</div>
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kazi-Samin&theme=radium&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Kazi Mahedi Hasan's Trophies" />
