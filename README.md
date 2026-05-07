@@ -8,7 +8,6 @@
 - 🚀 **Building:** Interactive web applications utilizing JavaScript, APIs, React, React Router, Next.js, Tailwind CSS, and DaisyUI.
 - 🌱 **Learning:** Expanding my knowledge into backend development with **Node.js**.
 - 🎯 **Goals:** To become a Full-Stack Developer and build impactful software solutions.
-- 📺 **Fun fact:** I enjoy creating content for my YouTube channel, Anime Freeze.
 
 ---
 
