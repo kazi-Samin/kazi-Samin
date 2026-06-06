@@ -6,11 +6,11 @@
 
 ## 👨‍💻 About Me
 
-[cite_start]A dedicated **MERN Stack Web Developer** focused on engineering highly responsive, clean, and performance-driven web applications[cite: 2, 20]. [cite_start]I approach frontend interfaces with a sharp eye for detail and backend architectures with an emphasis on robust, scalable code[cite: 2, 20].
+A dedicated **MERN Stack Web Developer** focused on engineering highly responsive, clean, and performance-driven web applications. I approach frontend interfaces with a sharp eye for detail and backend architectures with an emphasis on robust, scalable code.
 
-* [cite_start]🚀 **Currently Focus:** Advanced web development ecosystems, performance optimizations, and workflow integrations[cite: 43, 44, 45].
-* [cite_start]🛠️ **Building:** Interactive full-stack applications with solid database models and production-grade security[cite: 2, 20, 45].
-* [cite_start]🎯 **Goals:** Evolving continuously to build impactful web systems and contributing back to modern open-source communities[cite: 43, 45].
+* 🚀 **Currently Focus:** Advanced web development ecosystems, performance optimizations, and workflow integrations.
+* 🛠️ **Building:** Interactive full-stack applications with solid database models and production-grade security.
+* 🎯 **Goals:** Evolving continuously to build impactful web systems and contributing back to modern open-source communities.
 
 ---
 
@@ -48,33 +48,33 @@
 ## 🚀 Featured Projects
 
 ### 1. 🏥 MediCare — Doctor Appointment Platform
-[cite_start]A secure full-stack doctor appointment booking platform enabling users to manage their healthcare updates seamlessly[cite: 27].
-* [cite_start]**Core Systems:** Comprehensive doctor directory, instant available slot booking, and a clean, responsive user profile dashboard[cite: 28, 29].
-* [cite_start]**Security Layer:** State-protected server operations backed with strict verification middleware via **Better Auth** and Google Sign-In options[cite: 26, 29].
-* [cite_start]**Stack:** Next.js, React.js, Tailwind CSS, DaisyUI, Node.js, Express.js, MongoDB, Better Auth, Vercel[cite: 26, 29].
-* [cite_start]🔗 [Live Demo](https://assignment-09-kappa.vercel.app/home) [cite: 26]
+A secure full-stack doctor appointment booking platform enabling users to manage their healthcare updates seamlessly.
+* **Core Systems:** Comprehensive doctor directory, instant available slot booking, and a clean, responsive user profile dashboard.
+* **Security Layer:** State-protected server operations backed with strict verification middleware via **Better Auth** and Google Sign-In options.
+* **Stack:** Next.js, React.js, Tailwind CSS, DaisyUI, Node.js, Express.js, MongoDB, Better Auth, Vercel.
+* 🔗 [Live Demo](https://assignment-09-kappa.vercel.app/home)
 
 ### 2. 🎓 SkillSphere — Modern E-Learning Platform
-[cite_start]An immersive full-stack educational ecosystem engineered for premium learning paths and intuitive technical workspace flows[cite: 30, 31].
-* [cite_start]**Core Systems:** Dynamic structural course menus, global search parameters, continuous interactive form inputs, and profile image tracking[cite: 33, 35].
-* [cite_start]**UX Architecture:** Immersive, cyber-inspired design layouts using custom animations for instant validation states[cite: 35, 36].
-* [cite_start]**Stack:** React.js, Tailwind CSS 4, DaisyUI, Better Auth, Framer Motion, Vercel[cite: 35].
-* [cite_start]🔗 [Live Demo](https://assignment-008-wine.vercel.app/) [cite: 31]
+An immersive full-stack educational ecosystem engineered for premium learning paths and intuitive technical workspace flows.
+* **Core Systems:** Dynamic structural course menus, global search parameters, continuous interactive form inputs, and profile image tracking.
+* **UX Architecture:** Immersive, cyber-inspired design layouts using custom animations for instant validation states.
+* **Stack:** React.js, Tailwind CSS 4, DaisyUI, Better Auth, Framer Motion, Vercel.
+* 🔗 [Live Demo](https://assignment-008-wine.vercel.app/)
 
 ### 3. 🛠️ DigiTools Platform — Digital Product Manager
-[cite_start]An efficient workspace web application created to easily catalog, track, and interact with specialized digital products[cite: 36, 40].
-* [cite_start]**Core Systems:** Multi-item asynchronous shopping checkout logic, structural duplication prevention barriers, and fluid layout adjustments[cite: 38, 39].
-* [cite_start]**Stack:** JavaScript (ES6+), React, Vite, Tailwind CSS, DaisyUI, React Toastify, Netlify[cite: 37, 38].
-* [cite_start]🔗 [Live Demo](https://digitoolsplatform06.netlify.app/) [cite: 41]
+An efficient workspace web application created to easily catalog, track, and interact with specialized digital products.
+* **Core Systems:** Multi-item asynchronous shopping checkout logic, structural duplication prevention barriers, and fluid layout adjustments.
+* **Stack:** JavaScript (ES6+), React, Vite, Tailwind CSS, DaisyUI, React Toastify, Netlify.
+* 🔗 [Live Demo](https://digitoolsplatform06.netlify.app/)
 
 ---
 
 ## 🎯 Current Focus & Vision
 > **Professional Development Directive**
-> [cite_start]Over my extensive journey building for the web ecosystem, I have prioritized optimizing engineering workflows and standardizing production lifecycles[cite: 14, 43]. [cite_start]My current vision focuses on shipping robust, enterprise-grade architectures that balance performance, security, and developer speed[cite: 2, 14, 20].
-* [cite_start]**System Longevity:** Enhancing traditional MERN components to make optimal use of modern SSR caching parameters and server components[cite: 14].
-* [cite_start]**Enterprise Authentication:** Hardening route endpoints through strict cryptographic token (JWT) sessions and decentralized verification guards[cite: 14, 23].
-* [cite_start]**AI Tool Integration:** Utilizing predictive AI development environments to optimize manual logic configurations and aggressively accelerate delivery cycles[cite: 14, 45].
+> Over my extensive journey building for the web ecosystem, I have prioritized optimizing engineering workflows and standardizing production lifecycles. My current vision focuses on shipping robust, enterprise-grade architectures that balance performance, security, and developer speed.
+* **System Longevity:** Enhancing traditional MERN components to make optimal use of modern SSR caching parameters and server components.
+* **Enterprise Authentication:** Hardening route endpoints through strict cryptographic token (JWT) sessions and decentralized verification guards.
+* **AI Tool Integration:** Utilizing predictive AI development environments to optimize manual logic configurations and aggressively accelerate delivery cycles.
 
 ---
 
