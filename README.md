@@ -1,30 +1,40 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Banner"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1E3A8A,70:2563EB,100:38BDF8&height=280&section=header&text=Kazi%20Mahedi%20Hasan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Building%20Modern%20Web%20Applications&descAlignY=58&descAlign=50"/>
+
 </p>
 
-<h1 align="center">Hi 👋, I'm Kazi Mahedi Hasan</h1>
+<h2 align="center">Hi 👋 I'm Kazi Mahedi Hasan</h2>
 
 <h3 align="center">
-Full Stack Developer | Building Modern, Scalable & User-Centric Web Applications
+Full Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Passionate+About+Clean+Code+%26+Modern+Web+Development;Always+Learning+New+Technologies" />
+
+Building clean, scalable and responsive web applications with modern technologies.
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=3B82F6&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+Tailwind+CSS;Always+Learning+Something+New" />
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm **Kazi Mahedi Hasan**, a passionate **Full Stack Developer** who enjoys building clean, responsive, and scalable web applications.
+I'm **Kazi Mahedi Hasan**, a passionate **Full Stack Developer** dedicated to building modern, scalable, and user-focused web applications.
 
-I love solving real-world problems through modern technologies while continuously learning better architecture, security practices, and performance optimization.
+I enjoy transforming ideas into real-world products through clean architecture, responsive interfaces, and efficient backend systems. My focus is on writing maintainable code while continuously learning new technologies and best practices.
 
-- 🌱 Currently learning **Advanced Next.js & System Design**
-- 💻 Building full-stack applications with modern technologies
-- 🚀 Passionate about writing clean and maintainable code
-- ⚡ Interested in Performance Optimization & Scalable Architecture
-- 🎯 Goal: Becoming a world-class Software Engineer
+- 💻 Full Stack Web Development
+- 🚀 Building scalable REST APIs
+- ⚡ Performance Optimization
+- 🔐 Authentication & Security
+- 🌱 Currently learning advanced Next.js patterns and backend architecture
 
 ---
 
@@ -33,91 +43,68 @@ I love solving real-world problems through modern technologies while continuousl
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite"/>
+
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
 </p>
 
-### Tools & Technologies
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,postman" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,firebase"/>
+
 </p>
 
 ---
 
-# ✨ What I Love Building
+# ✨ What I Build
 
-✅ Full Stack Web Applications
+- 🌐 Full Stack Web Applications
 
-✅ Responsive UI
+- 📱 Responsive User Interfaces
 
-✅ REST APIs
+- 🔑 Authentication Systems
 
-✅ Authentication Systems
+- ⚙️ REST APIs
 
-✅ Dashboard Applications
+- 🗄️ MongoDB Database Design
 
-✅ Database Design
-
-✅ Performance Optimization
+- 🚀 Performance Optimized Applications
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Featured Project
 
 ## 🏥 MediCare
 
-A modern doctor appointment platform with authentication, secure booking system and responsive dashboard.
+Modern Doctor Appointment Platform
 
 **Tech Stack**
 
 Next.js • React • Node.js • Express • MongoDB • Better Auth • Tailwind CSS
 
-🔗 Live Demo:
+🔗 Live
+
 https://assignment-09-kappa.vercel.app/home
 
 ---
 
-## 🎓 SkillSphere
-
-An online learning platform focused on user experience, authentication and interactive course management.
-
-**Tech Stack**
-
-React • Tailwind CSS • Better Auth • Framer Motion
-
-🔗 Live Demo
-
-https://assignment-008-wine.vercel.app/
-
----
-
-## 🛠 DigiTools Platform
-
-A digital product management platform featuring responsive UI and modern React architecture.
-
-**Tech Stack**
-
-React • JavaScript • Tailwind CSS • DaisyUI
-
-🔗 Live Demo
-
-https://digitoolsplatform06.netlify.app/
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kazi-Samin&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kazi-Samin&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-Samin&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-Samin&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -129,7 +116,7 @@ https://digitoolsplatform06.netlify.app/
 
 ---
 
-# 🤝 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -141,12 +128,16 @@ https://digitoolsplatform06.netlify.app/
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://kazi-mahedi-hasan-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile!
 
 </p>
